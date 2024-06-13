@@ -1,6 +1,7 @@
-# ![Cover Picture](https://github.com/abdullah2811/Abdullah/blob/main/1718251260256.jpg)
+<!--# ![Cover Picture](https://github.com/abdullah2811/Abdullah/blob/main/1718251260256.jpg)-->
+<img src="https://github.com/abdullah2811/Abdullah/blob/main/1718251260256.jpg" alt="Cover Photo" width="300" height="200">
 
-## Hello, I'm Abdullah! ![Profile Picture](https://github.com/abdullah2811/Abdullah/blob/main/file.png)
+## Hello, I'm Abdullah! <img src="https://github.com/abdullah2811/Abdullah/blob/main/file.png" alt="Profile Photo" width="200" height="500">
 
 ### Introduction
 Hi there! I'm Abdullah, a Computer Science and Engineering Student. I'm passionate about Software Developement. My goal is to be a Software Engineer.
