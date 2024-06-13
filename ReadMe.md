@@ -1,6 +1,6 @@
-# ![Cover Picture](C:\Users\abdul\Pictures\1718251260224.jpg)
+# ![Cover Picture]([C:\Users\abdul\Pictures\1718251260224.jpg](https://github.com/abdullah2811/Abdullah/blob/main/1718251260256.jpg))
 
-## Hello, I'm Abdullah! ![Profile Picture](C:\Users\abdul\Pictures\file.png)
+## Hello, I'm Abdullah! ![Profile Picture]([C:\Users\abdul\Pictures\file.png](https://github.com/abdullah2811/Abdullah/blob/main/file.png))
 
 ### Introduction
 Hi there! I'm Abdullah, a Computer Science and Engineering Student. I'm passionate about Software Developement. My goal is to be a Software Engineer.
