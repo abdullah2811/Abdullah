@@ -7,31 +7,19 @@ Hi there! I'm Abdullah, a Computer Science and Engineering Student. I'm passiona
 
 ### Skills
 #### Technical Skills
-- Skill 1
-- Skill 2
-- Skill 3
-- Skill 4
+- Programming Languages (C, C++, Python)
+- Web Developement (HTML, CSS)
+- Prompt Enfgineering
 
 #### Soft Skills
-- Skill 1
-- Skill 2
-- Skill 3
-- Skill 4
+- Communication
+- Adaptability
+- Problem Solving
+- Team Work
+- Team Leading
 
 ### Projects
-Here are some of the key projects I've worked on:
-
-1. **Project Name 1**
-   - Description: [Brief description of the project]
-   - [Link to live site or repository](URL)
-
-2. **Project Name 2**
-   - Description: [Brief description of the project]
-   - [Link to live site or repository](URL)
-
-3. **Project Name 3**
-   - Description: [Brief description of the project]
-   - [Link to live site or repository](URL)
+I have not worked on any projects yet. But I am going to start some projects very soon. They will be updated here with proper description as soon as I finish them.
 
 ### Education
 - **B.Sc. (Engg.)** - Computer Science and Engineering
@@ -52,13 +40,8 @@ Here are some of the key projects I've worked on:
     - Text Formation, Research, Fact-Checking
 
 ### Certifications
-- **Certification Name 1**
-  - Issued by: [Issuing Organization]
-  - Date: [Date Issued]
 
-- **Certification Name 2**
-  - Issued by: [Issuing Organization]
-  - Date: [Date Issued]
+
 
 ### Contact Information
 Feel free to reach out to me!
