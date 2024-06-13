@@ -47,7 +47,7 @@ I have not worked on any projects yet. But I am going to start some projects ver
 ### Contact Information
 Feel free to reach out to me!
 
-- **Email**: [Click to E-mail Me](abdullahiar2811@gmail.com)
+- **Email**: abdullahiar2811@gmail.com
 - **LinkedIn**: [Click to Find me on LinkedIn](https://www.linkedin.com/in/abdullahcsembstu2811)
 - **Facebook**: [Click to Find me on FB](https://www.facebook.com/abdullahcse23mbstu)
 
