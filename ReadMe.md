@@ -1,37 +1,26 @@
-# ![Cover Picture](C:\Users\abdul\Pictures\1718251260224.jpg)
+<!--# ![Cover Picture](https://github.com/abdullah2811/Abdullah/blob/main/1718251260256.jpg)-->
+<img src="https://github.com/abdullah2811/Abdullah/blob/main/1718251260256.jpg" alt="Cover Photo" width="900" height="500">
 
-## Hello, I'm Abdullah! ![Profile Picture](C:\Users\abdul\Pictures\file.png)
+## Hello, I'm Abdullah! <br/><img src="https://github.com/abdullah2811/Abdullah/blob/main/file.png" alt="Profile Photo" width="200" height="250">
 
 ### Introduction
 Hi there! I'm Abdullah, a Computer Science and Engineering Student. I'm passionate about Software Developement. My goal is to be a Software Engineer.
 
 ### Skills
 #### Technical Skills
-- Skill 1
-- Skill 2
-- Skill 3
-- Skill 4
+- Programming Languages (C, C++, Python)
+- Web Developement (HTML, CSS)
+- Prompt Enfgineering
 
 #### Soft Skills
-- Skill 1
-- Skill 2
-- Skill 3
-- Skill 4
+- Communication
+- Adaptability
+- Problem Solving
+- Team Work
+- Team Leading
 
 ### Projects
-Here are some of the key projects I've worked on:
-
-1. **Project Name 1**
-   - Description: [Brief description of the project]
-   - [Link to live site or repository](URL)
-
-2. **Project Name 2**
-   - Description: [Brief description of the project]
-   - [Link to live site or repository](URL)
-
-3. **Project Name 3**
-   - Description: [Brief description of the project]
-   - [Link to live site or repository](URL)
+I have not worked on any projects yet. But I am going to start some projects very soon. They will be updated here with proper description as soon as I finish them.
 
 ### Education
 - **B.Sc. (Engg.)** - Computer Science and Engineering
@@ -52,18 +41,13 @@ Here are some of the key projects I've worked on:
     - Text Formation, Research, Fact-Checking
 
 ### Certifications
-- **Certification Name 1**
-  - Issued by: [Issuing Organization]
-  - Date: [Date Issued]
 
-- **Certification Name 2**
-  - Issued by: [Issuing Organization]
-  - Date: [Date Issued]
+
 
 ### Contact Information
 Feel free to reach out to me!
 
-- **Email**: [Click to E-mail Me](abdullahiar2811@gmail.com)
+- **Email**: abdullahiar2811@gmail.com
 - **LinkedIn**: [Click to Find me on LinkedIn](https://www.linkedin.com/in/abdullahcsembstu2811)
 - **Facebook**: [Click to Find me on FB](https://www.facebook.com/abdullahcse23mbstu)
 
